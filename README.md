@@ -5,6 +5,8 @@
 - [Deepseek](#Deepseek)
 
 
+## Learn AI
+- [https://blog.dailydoseofds.com/p/ai-agent-crash-coursepart-1?ref=dailydev](https://blog.dailydoseofds.com/p/ai-agent-crash-coursepart-1?ref=dailydev)<br>
 ## Deepseek
 - [https://www.freecodecamp.org/news/how-to-use-deepseek-r1/](https://www.freecodecamp.org/news/how-to-use-deepseek-r1/)<br>
 - [https://github.com/deepseek-ai/awesome-deepseek-integration?ref=dailydev](https://github.com/deepseek-ai/awesome-deepseek-integration?ref=dailydev)<br>

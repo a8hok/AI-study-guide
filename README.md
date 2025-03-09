@@ -17,3 +17,6 @@
 
 ## OpenAI
 - [https://apievangelist.com/2025/01/08/openapi-doctor-is-what-api-innovation-looks-like/?ref=dailydev](https://apievangelist.com/2025/01/08/openapi-doctor-is-what-api-innovation-looks-like/?ref=dailydev)<br>
+
+## Prompt Engineering
+- [https://github.com/NirDiamant/Prompt_Engineering?ref=dailydev](https://github.com/NirDiamant/Prompt_Engineering?ref=dailydev)<br>

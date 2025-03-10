@@ -8,6 +8,7 @@
 ## Learn AI
 - [https://blog.dailydoseofds.com/p/ai-agent-crash-coursepart-1?ref=dailydev](https://blog.dailydoseofds.com/p/ai-agent-crash-coursepart-1?ref=dailydev)<br>
 - [https://github.com/break-into-data/ai-engineer-toolkit?ref=dailydev](https://github.com/break-into-data/ai-engineer-toolkit?ref=dailydev)<br>
+- [https://decodingml.substack.com/p/build-your-second-brain-ai-assistant?ref=dailydev](https://decodingml.substack.com/p/build-your-second-brain-ai-assistant?ref=dailydev)<br>
 
 ## Deepseek
 - [https://www.freecodecamp.org/news/how-to-use-deepseek-r1/](https://www.freecodecamp.org/news/how-to-use-deepseek-r1/)<br>

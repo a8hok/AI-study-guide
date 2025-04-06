@@ -27,3 +27,6 @@
 
 ## AI roadmap
 - [https://roadmap.sh/ai-engineer?ref=dailydev](https://roadmap.sh/ai-engineer?ref=dailydev)<br>
+
+## AI github
+- [https://github.com/coleam00/ai-agents-masterclass?ref=dailydev](https://github.com/coleam00/ai-agents-masterclass?ref=dailydev)<br>

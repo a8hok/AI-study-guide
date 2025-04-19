@@ -10,6 +10,7 @@
 - [https://github.com/break-into-data/ai-engineer-toolkit?ref=dailydev](https://github.com/break-into-data/ai-engineer-toolkit?ref=dailydev)<br>
 - [https://decodingml.substack.com/p/build-your-second-brain-ai-assistant?ref=dailydev](https://decodingml.substack.com/p/build-your-second-brain-ai-assistant?ref=dailydev)<br>
 - [https://dev.to/copilotkit/copilotkit-soars-beyond-10000-stars-on-github-57f1?context=digest](https://dev.to/copilotkit/copilotkit-soars-beyond-10000-stars-on-github-57f1?context=digest)<br>
+- [https://www.builder.io/blog/mcp-server?ref=dailydev](https://www.builder.io/blog/mcp-server?ref=dailydev)<br>
 
 ## Deepseek
 - [https://www.freecodecamp.org/news/how-to-use-deepseek-r1/](https://www.freecodecamp.org/news/how-to-use-deepseek-r1/)<br>

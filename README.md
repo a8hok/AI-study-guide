@@ -12,6 +12,7 @@
 - [https://dev.to/copilotkit/copilotkit-soars-beyond-10000-stars-on-github-57f1?context=digest](https://dev.to/copilotkit/copilotkit-soars-beyond-10000-stars-on-github-57f1?context=digest)<br>
 - [https://www.builder.io/blog/mcp-server?ref=dailydev](https://www.builder.io/blog/mcp-server?ref=dailydev)<br>
 - [https://medium.com/javarevisited/5-best-udemy-courses-to-learn-ai-engineering-in-2025-e39ace169443](https://medium.com/javarevisited/5-best-udemy-courses-to-learn-ai-engineering-in-2025-e39ace169443)<br>
+- [https://www.freecodecamp.org/news/build-a-local-ai/](https://www.freecodecamp.org/news/build-a-local-ai/)<br>
 
 ## Deepseek
 - [https://www.freecodecamp.org/news/how-to-use-deepseek-r1/](https://www.freecodecamp.org/news/how-to-use-deepseek-r1/)<br>

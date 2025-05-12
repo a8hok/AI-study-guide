@@ -33,3 +33,6 @@
 
 ## AI github
 - [https://github.com/coleam00/ai-agents-masterclass?ref=dailydev](https://github.com/coleam00/ai-agents-masterclass?ref=dailydev)<br>
+
+## AI with Python
+- [https://github.com/openai/openai-agents-python?ref=dailydev](https://github.com/openai/openai-agents-python?ref=dailydev)<br>

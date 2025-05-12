@@ -25,6 +25,9 @@
 ## OpenAI
 - [https://apievangelist.com/2025/01/08/openapi-doctor-is-what-api-innovation-looks-like/?ref=dailydev](https://apievangelist.com/2025/01/08/openapi-doctor-is-what-api-innovation-looks-like/?ref=dailydev)<br>
 
+## GenAI
+- [https://www.freecodecamp.org/news/free-genai-65-hour-bootcamp/](https://www.freecodecamp.org/news/free-genai-65-hour-bootcamp/)<br>
+
 ## Prompt Engineering
 - [https://github.com/NirDiamant/Prompt_Engineering?ref=dailydev](https://github.com/NirDiamant/Prompt_Engineering?ref=dailydev)<br>
 

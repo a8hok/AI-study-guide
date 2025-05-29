@@ -42,3 +42,6 @@
 
 ## AI deployment
 - [https://github.com/daytonaio/daytona?ref=dailydev](https://github.com/daytonaio/daytona?ref=dailydev)<br>
+
+## LLM
+- [https://www.freecodecamp.org/news/learn-to-use-claude-ai/](https://www.freecodecamp.org/news/learn-to-use-claude-ai/)<br>

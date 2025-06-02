@@ -48,5 +48,8 @@
 - [https://www.freecodecamp.org/news/learn-to-use-claude-ai/](https://www.freecodecamp.org/news/learn-to-use-claude-ai/)<br>
 - [https://llm-ui.com/?ref=dailydev](https://llm-ui.com/?ref=dailydev)<br>
 
+## RAG
+- [https://ubuntu.com/blog/rag-workflow-explained?ref=dailydev](https://ubuntu.com/blog/rag-workflow-explained?ref=dailydev)<br>
+
 ## AI tools
 - [https://blog.scottlogic.com/2025/04/01/making-sense-of-the-ai-developer-tools-ecosystem.html?ref=dailydev](https://blog.scottlogic.com/2025/04/01/making-sense-of-the-ai-developer-tools-ecosystem.html?ref=dailydev)<br>

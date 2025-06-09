@@ -14,6 +14,7 @@
 - [https://medium.com/javarevisited/5-best-udemy-courses-to-learn-ai-engineering-in-2025-e39ace169443](https://medium.com/javarevisited/5-best-udemy-courses-to-learn-ai-engineering-in-2025-e39ace169443)<br>
 - [https://www.freecodecamp.org/news/build-a-local-ai/](https://www.freecodecamp.org/news/build-a-local-ai/)<br>
 - [https://medium.com/data-science-in-your-pocket/claude-4-you-better-stop-coding-now-61fb9b2fbbf3](https://medium.com/data-science-in-your-pocket/claude-4-you-better-stop-coding-now-61fb9b2fbbf3)<br>
+- [https://www.freecodecamp.org/news/learn-the-foundations-of-machine-learning-and-artificial-intelligence/](https://www.freecodecamp.org/news/learn-the-foundations-of-machine-learning-and-artificial-intelligence/)<br>
 
 ## Deepseek
 - [https://www.freecodecamp.org/news/how-to-use-deepseek-r1/](https://www.freecodecamp.org/news/how-to-use-deepseek-r1/)<br>

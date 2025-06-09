@@ -53,3 +53,7 @@
 
 ## AI tools
 - [https://blog.scottlogic.com/2025/04/01/making-sense-of-the-ai-developer-tools-ecosystem.html?ref=dailydev](https://blog.scottlogic.com/2025/04/01/making-sense-of-the-ai-developer-tools-ecosystem.html?ref=dailydev)<br>
+
+## AI projects with MERN
+- [https://www.freecodecamp.org/news/build-an-ai-chat-application-with-the-mern-stack/](https://www.freecodecamp.org/news/build-an-ai-chat-application-with-the-mern-stack/)<br>
+

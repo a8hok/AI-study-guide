@@ -57,3 +57,6 @@
 ## AI projects with MERN
 - [https://www.freecodecamp.org/news/build-an-ai-chat-application-with-the-mern-stack/](https://www.freecodecamp.org/news/build-an-ai-chat-application-with-the-mern-stack/)<br>
 
+## AI with JS
+- [https://www.freecodecamp.org/news/build-your-own-rag-chatbot-with-javascript/](https://www.freecodecamp.org/news/build-your-own-rag-chatbot-with-javascript/)<br>
+

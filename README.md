@@ -49,6 +49,7 @@
 - [https://www.freecodecamp.org/news/learn-to-use-claude-ai/](https://www.freecodecamp.org/news/learn-to-use-claude-ai/)<br>
 - [https://llm-ui.com/?ref=dailydev](https://llm-ui.com/?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/the-open-source-llm-agent-handbook/?ref=dailydev](https://www.freecodecamp.org/news/the-open-source-llm-agent-handbook/?ref=dailydev)<br>
+- [https://github.com/HandsOnLLM/Hands-On-Large-Language-Models?ref=dailydev](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models?ref=dailydev)<br>
 
 ## RAG
 - [https://ubuntu.com/blog/rag-workflow-explained?ref=dailydev](https://ubuntu.com/blog/rag-workflow-explained?ref=dailydev)<br>

@@ -15,6 +15,7 @@
 - [https://www.freecodecamp.org/news/build-a-local-ai/](https://www.freecodecamp.org/news/build-a-local-ai/)<br>
 - [https://medium.com/data-science-in-your-pocket/claude-4-you-better-stop-coding-now-61fb9b2fbbf3](https://medium.com/data-science-in-your-pocket/claude-4-you-better-stop-coding-now-61fb9b2fbbf3)<br>
 - [https://www.freecodecamp.org/news/learn-the-foundations-of-machine-learning-and-artificial-intelligence/](https://www.freecodecamp.org/news/learn-the-foundations-of-machine-learning-and-artificial-intelligence/)<br>
+- [https://blog.bytebytego.com/p/ep167-top-20-ai-concepts-you-should?ref=dailydev](https://blog.bytebytego.com/p/ep167-top-20-ai-concepts-you-should?ref=dailydev)<br>
 
 ## Deepseek
 - [https://www.freecodecamp.org/news/how-to-use-deepseek-r1/](https://www.freecodecamp.org/news/how-to-use-deepseek-r1/)<br>

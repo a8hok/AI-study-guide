@@ -54,6 +54,7 @@
 
 ## RAG
 - [https://ubuntu.com/blog/rag-workflow-explained?ref=dailydev](https://ubuntu.com/blog/rag-workflow-explained?ref=dailydev)<br>
+- [https://www.apideck.com/blog/building-a-local-rag-chat-app-with-reflex-langchain-huggingface-and-ollama?ref=dailydev](https://www.apideck.com/blog/building-a-local-rag-chat-app-with-reflex-langchain-huggingface-and-ollama?ref=dailydev)<br>
 
 ## AI tools
 - [https://blog.scottlogic.com/2025/04/01/making-sense-of-the-ai-developer-tools-ecosystem.html?ref=dailydev](https://blog.scottlogic.com/2025/04/01/making-sense-of-the-ai-developer-tools-ecosystem.html?ref=dailydev)<br>

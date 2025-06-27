@@ -65,6 +65,7 @@
 
 ## AI with JS
 - [https://www.freecodecamp.org/news/build-your-own-rag-chatbot-with-javascript/](https://www.freecodecamp.org/news/build-your-own-rag-chatbot-with-javascript/)<br>
+- [https://www.freecodecamp.org/news/how-to-build-a-custom-mcp-server-with-typescript-a-handbook-for-developers/](https://www.freecodecamp.org/news/how-to-build-a-custom-mcp-server-with-typescript-a-handbook-for-developers/)<br>
 
 ## MCP
 - [https://blog.dailydoseofds.com/p/9-mcp-projects-for-ai-engineers?ref=dailydev](https://blog.dailydoseofds.com/p/9-mcp-projects-for-ai-engineers?ref=dailydev)<br>

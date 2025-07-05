@@ -42,6 +42,7 @@
 
 ## AI with Python
 - [https://github.com/openai/openai-agents-python?ref=dailydev](https://github.com/openai/openai-agents-python?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/learn-langgraph-and-build-conversational-ai-with-python/?ref=dailydev](https://www.freecodecamp.org/news/learn-langgraph-and-build-conversational-ai-with-python/?ref=dailydev)<br>
 
 ## AI deployment
 - [https://github.com/daytonaio/daytona?ref=dailydev](https://github.com/daytonaio/daytona?ref=dailydev)<br>

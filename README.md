@@ -71,3 +71,6 @@
 ## MCP
 - [https://blog.dailydoseofds.com/p/9-mcp-projects-for-ai-engineers?ref=dailydev](https://blog.dailydoseofds.com/p/9-mcp-projects-for-ai-engineers?ref=dailydev)<br>
 
+## AI youtube
+- [https://www.youtube.com/watch?v=JzK-QksLYcg](https://www.youtube.com/watch?v=JzK-QksLYcg)<br>
+

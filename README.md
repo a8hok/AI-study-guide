@@ -73,6 +73,7 @@
 
 ## MCP
 - [https://blog.dailydoseofds.com/p/9-mcp-projects-for-ai-engineers?ref=dailydev](https://blog.dailydoseofds.com/p/9-mcp-projects-for-ai-engineers?ref=dailydev)<br>
+- [https://itnext.io/how-to-start-your-own-mcp-server-with-n8n-c8413dffd9a6](https://itnext.io/how-to-start-your-own-mcp-server-with-n8n-c8413dffd9a6)<br>
 
 ## AI youtube
 - [https://www.youtube.com/watch?v=JzK-QksLYcg](https://www.youtube.com/watch?v=JzK-QksLYcg)<br>

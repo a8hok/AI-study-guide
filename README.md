@@ -33,6 +33,7 @@
 
 ## Prompt Engineering
 - [https://github.com/NirDiamant/Prompt_Engineering?ref=dailydev](https://github.com/NirDiamant/Prompt_Engineering?ref=dailydev)<br>
+- [https://github.com/anthropics/prompt-eng-interactive-tutorial?ref=dailydev](https://github.com/anthropics/prompt-eng-interactive-tutorial?ref=dailydev)<br>
 
 ## AI roadmap
 - [https://roadmap.sh/ai-engineer?ref=dailydev](https://roadmap.sh/ai-engineer?ref=dailydev)<br>

@@ -18,6 +18,7 @@
 - [https://blog.bytebytego.com/p/ep167-top-20-ai-concepts-you-should?ref=dailydev](https://blog.bytebytego.com/p/ep167-top-20-ai-concepts-you-should?ref=dailydev)<br>
 - [https://github.com/rohitg00/awesome-ai-apps?ref=dailydev](https://github.com/rohitg00/awesome-ai-apps?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/how-to-use-ai-effectively-in-your-dev-projects/?ref=dailydev](https://www.freecodecamp.org/news/how-to-use-ai-effectively-in-your-dev-projects/?ref=dailydev)<br>
+- [https://medium.com/javarevisited/top-7-project-based-udemy-courses-for-ai-engineers-in-2025-51aa1bf2f69d](https://medium.com/javarevisited/top-7-project-based-udemy-courses-for-ai-engineers-in-2025-51aa1bf2f69d)<br>
 
 ## Deepseek
 - [https://www.freecodecamp.org/news/how-to-use-deepseek-r1/](https://www.freecodecamp.org/news/how-to-use-deepseek-r1/)<br>

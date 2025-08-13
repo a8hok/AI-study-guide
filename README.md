@@ -82,3 +82,6 @@
 ## AI youtube
 - [https://www.youtube.com/watch?v=JzK-QksLYcg](https://www.youtube.com/watch?v=JzK-QksLYcg)<br>
 
+## AI cheatsheet
+- [https://blog.dailydoseofds.com/p/12-mcp-rag-and-agents-cheat-sheets?ref=dailydev](https://blog.dailydoseofds.com/p/12-mcp-rag-and-agents-cheat-sheets?ref=dailydev)<br>
+

@@ -85,3 +85,6 @@
 ## AI cheatsheet
 - [https://blog.dailydoseofds.com/p/12-mcp-rag-and-agents-cheat-sheets?ref=dailydev](https://blog.dailydoseofds.com/p/12-mcp-rag-and-agents-cheat-sheets?ref=dailydev)<br>
 
+## AI vs
+- [https://portkey.ai/blog/claude-code-vs-cursor/?ref=dailydev](https://portkey.ai/blog/claude-code-vs-cursor/?ref=dailydev)<br>
+

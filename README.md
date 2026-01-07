@@ -57,6 +57,7 @@
 - [https://www.freecodecamp.org/news/the-open-source-llm-agent-handbook/?ref=dailydev](https://www.freecodecamp.org/news/the-open-source-llm-agent-handbook/?ref=dailydev)<br>
 - [https://github.com/HandsOnLLM/Hands-On-Large-Language-Models?ref=dailydev](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models?ref=dailydev)<br>
 - [https://dev.to/zeedu_dev/fine-tuning-a-llm-small-practical-guide-with-resources-bg5?context=digest](https://dev.to/zeedu_dev/fine-tuning-a-llm-small-practical-guide-with-resources-bg5?context=digest)<br>
+- [https://sebastianraschka.com/blog/2025/state-of-llms-2025.html?ref=dailydev](https://sebastianraschka.com/blog/2025/state-of-llms-2025.html?ref=dailydev)<br>
 
 ## RAG
 - [https://ubuntu.com/blog/rag-workflow-explained?ref=dailydev](https://ubuntu.com/blog/rag-workflow-explained?ref=dailydev)<br>

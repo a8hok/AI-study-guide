@@ -19,6 +19,7 @@
 - [https://github.com/rohitg00/awesome-ai-apps?ref=dailydev](https://github.com/rohitg00/awesome-ai-apps?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/how-to-use-ai-effectively-in-your-dev-projects/?ref=dailydev](https://www.freecodecamp.org/news/how-to-use-ai-effectively-in-your-dev-projects/?ref=dailydev)<br>
 - [https://medium.com/javarevisited/top-7-project-based-udemy-courses-for-ai-engineers-in-2025-51aa1bf2f69d](https://medium.com/javarevisited/top-7-project-based-udemy-courses-for-ai-engineers-in-2025-51aa1bf2f69d)<br>
+- [https://www.freecodecamp.org/news/openclaw-full-tutorial-for-beginners](https://www.freecodecamp.org/news/openclaw-full-tutorial-for-beginners)<br>
 
 ## Deepseek
 - [https://www.freecodecamp.org/news/how-to-use-deepseek-r1/](https://www.freecodecamp.org/news/how-to-use-deepseek-r1/)<br>

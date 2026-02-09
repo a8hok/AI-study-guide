@@ -1,6 +1,6 @@
 # AI-study-guide
 
-## Table of contents
+## Table of Contents
 
 - [Learn AI](#learn-ai)
 - [DeepSeek](#deepseek)
@@ -19,9 +19,8 @@
 - [AI + Figma](#ai--figma)
 - [Model Context Protocol (MCP)](#model-context-protocol-mcp)
 - [AI YouTube Resources](#ai-youtube-resources)
-- [AI Cheatsheets](#ai-cheatsheets)
+- [AI Cheat Sheets](#ai-cheat-sheets)
 - [AI Comparisons](#ai-comparisons)
-
 
 
 

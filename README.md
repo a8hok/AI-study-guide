@@ -2,7 +2,27 @@
 
 ## Table of contents
 
-- [Deepseek](#Deepseek)
+- [Learn AI](#learn-ai)
+- [DeepSeek](#deepseek)
+- [OpenAI](#openai)
+- [Generative AI](#generative-ai)
+- [Prompt Engineering](#prompt-engineering)
+- [AI Roadmap](#ai-roadmap)
+- [AI GitHub Resources](#ai-github-resources)
+- [AI with Python](#ai-with-python)
+- [AI Deployment](#ai-deployment)
+- [Large Language Models (LLMs)](#large-language-models-llms)
+- [Retrieval-Augmented Generation (RAG)](#retrieval-augmented-generation-rag)
+- [AI Developer Tools](#ai-developer-tools)
+- [AI Projects with MERN Stack](#ai-projects-with-mern-stack)
+- [AI with JavaScript](#ai-with-javascript)
+- [AI + Figma](#ai--figma)
+- [Model Context Protocol (MCP)](#model-context-protocol-mcp)
+- [AI YouTube Resources](#ai-youtube-resources)
+- [AI Cheatsheets](#ai-cheatsheets)
+- [AI Comparisons](#ai-comparisons)
+
+
 
 
 ## Learn AI

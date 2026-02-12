@@ -23,7 +23,6 @@
 - [AI Comparisons](#ai-comparisons)
 
 
-
 ## Learn AI
 - [https://blog.dailydoseofds.com/p/ai-agent-crash-coursepart-1?ref=dailydev](https://blog.dailydoseofds.com/p/ai-agent-crash-coursepart-1?ref=dailydev)<br>
 - [https://github.com/break-into-data/ai-engineer-toolkit?ref=dailydev](https://github.com/break-into-data/ai-engineer-toolkit?ref=dailydev)<br>
@@ -104,6 +103,7 @@
 
 ## AI youtube
 - [https://www.youtube.com/watch?v=JzK-QksLYcg](https://www.youtube.com/watch?v=JzK-QksLYcg)<br>
+- [https://www.youtube.com/watch?v=91B_v-wOaws](https://www.youtube.com/watch?v=91B_v-wOaws)<br>
 
 ## AI cheatsheet
 - [https://blog.dailydoseofds.com/p/12-mcp-rag-and-agents-cheat-sheets?ref=dailydev](https://blog.dailydoseofds.com/p/12-mcp-rag-and-agents-cheat-sheets?ref=dailydev)<br>

@@ -78,6 +78,7 @@
 - [https://github.com/HandsOnLLM/Hands-On-Large-Language-Models?ref=dailydev](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models?ref=dailydev)<br>
 - [https://dev.to/zeedu_dev/fine-tuning-a-llm-small-practical-guide-with-resources-bg5?context=digest](https://dev.to/zeedu_dev/fine-tuning-a-llm-small-practical-guide-with-resources-bg5?context=digest)<br>
 - [https://sebastianraschka.com/blog/2025/state-of-llms-2025.html?ref=dailydev](https://sebastianraschka.com/blog/2025/state-of-llms-2025.html?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/learn-how-to-fine-tune-llms-in-12-hours/?ref=dailydev](https://www.freecodecamp.org/news/learn-how-to-fine-tune-llms-in-12-hours/?ref=dailydev)<br>
 
 
 ## RAG

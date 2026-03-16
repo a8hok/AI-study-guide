@@ -79,6 +79,7 @@
 - [https://dev.to/zeedu_dev/fine-tuning-a-llm-small-practical-guide-with-resources-bg5?context=digest](https://dev.to/zeedu_dev/fine-tuning-a-llm-small-practical-guide-with-resources-bg5?context=digest)<br>
 - [https://sebastianraschka.com/blog/2025/state-of-llms-2025.html?ref=dailydev](https://sebastianraschka.com/blog/2025/state-of-llms-2025.html?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/learn-how-to-fine-tune-llms-in-12-hours/?ref=dailydev](https://www.freecodecamp.org/news/learn-how-to-fine-tune-llms-in-12-hours/?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/build-a-semantic-book-recommender-using-an-llm-and-python/](https://www.freecodecamp.org/news/build-a-semantic-book-recommender-using-an-llm-and-python/)<br>
 
 
 ## RAG

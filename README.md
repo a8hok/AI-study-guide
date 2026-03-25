@@ -80,6 +80,7 @@
 - [https://sebastianraschka.com/blog/2025/state-of-llms-2025.html?ref=dailydev](https://sebastianraschka.com/blog/2025/state-of-llms-2025.html?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/learn-how-to-fine-tune-llms-in-12-hours/?ref=dailydev](https://www.freecodecamp.org/news/learn-how-to-fine-tune-llms-in-12-hours/?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/build-a-semantic-book-recommender-using-an-llm-and-python/](https://www.freecodecamp.org/news/build-a-semantic-book-recommender-using-an-llm-and-python/)<br>
+- [https://developer.chrome.com/blog/webmcp-mcp-usage?ref=dailydev](https://developer.chrome.com/blog/webmcp-mcp-usage?ref=dailydev)<br>
 
 
 ## RAG

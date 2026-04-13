@@ -39,6 +39,7 @@
 - [https://medium.com/javarevisited/top-7-project-based-udemy-courses-for-ai-engineers-in-2025-51aa1bf2f69d](https://medium.com/javarevisited/top-7-project-based-udemy-courses-for-ai-engineers-in-2025-51aa1bf2f69d)<br>
 - [https://www.freecodecamp.org/news/openclaw-full-tutorial-for-beginners](https://www.freecodecamp.org/news/openclaw-full-tutorial-for-beginners)<br>
 - [https://faun.pub/20-free-open-source-ai-tools-to-run-production-grade-agents-without-paying-llm-apis-in-2026-5f1ffdcbcc18](https://faun.pub/20-free-open-source-ai-tools-to-run-production-grade-agents-without-paying-llm-apis-in-2026-5f1ffdcbcc18)<br>
+- [https://www.freecodecamp.org/news/understand-ai-and-neural-networks-by-manually-adjusting-paramaters/](https://www.freecodecamp.org/news/understand-ai-and-neural-networks-by-manually-adjusting-paramaters/)<br>
 
 ## Deepseek
 - [https://www.freecodecamp.org/news/how-to-use-deepseek-r1/](https://www.freecodecamp.org/news/how-to-use-deepseek-r1/)<br>

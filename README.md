@@ -117,3 +117,6 @@
 ## AI vs
 - [https://portkey.ai/blog/claude-code-vs-cursor/?ref=dailydev](https://portkey.ai/blog/claude-code-vs-cursor/?ref=dailydev)<br>
 
+## Codex
+- [https://www.youtube.com/watch?v=3TdD8Qv5Tk8](https://www.youtube.com/watch?v=3TdD8Qv5Tk8)<br>
+

@@ -106,6 +106,7 @@
 - [https://blog.dailydoseofds.com/p/9-mcp-projects-for-ai-engineers?ref=dailydev](https://blog.dailydoseofds.com/p/9-mcp-projects-for-ai-engineers?ref=dailydev)<br>
 - [https://itnext.io/how-to-start-your-own-mcp-server-with-n8n-c8413dffd9a6](https://itnext.io/how-to-start-your-own-mcp-server-with-n8n-c8413dffd9a6)<br>
 - [https://portkey.ai/blog/understanding-mcp-authorization/?ref=dailydev](https://portkey.ai/blog/understanding-mcp-authorization/?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/learn-mcp-essentials-and-how-to-create-secure-agent-interfaces-with-fastmcp/](https://www.freecodecamp.org/news/learn-mcp-essentials-and-how-to-create-secure-agent-interfaces-with-fastmcp/)<br>
 
 ## AI youtube
 - [https://www.youtube.com/watch?v=JzK-QksLYcg](https://www.youtube.com/watch?v=JzK-QksLYcg)<br>

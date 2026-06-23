@@ -123,4 +123,5 @@
 
 ## AI dev-ops
 - [https://www.freecodecamp.org/news/build-a-self-healing-ci-cd-pipeline-with-ai/](https://www.freecodecamp.org/news/build-a-self-healing-ci-cd-pipeline-with-ai/)<br>
+- [https://www.freecodecamp.org/news/learn-python-and-build-autonomous-agents/](https://www.freecodecamp.org/news/learn-python-and-build-autonomous-agents/)<br>
 

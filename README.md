@@ -133,4 +133,9 @@
 - [https://github.com/google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)<br>
 - [https://github.com/infiniflow/ragflow](https://github.com/infiniflow/ragflow)<br>
 - [https://github.com/anthropics/claude-code](https://github.com/anthropics/claude-code)<br>
+- [https://github.com/crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)<br>
+- [https://github.com/langgenius/dify](https://github.com/langgenius/dify)<br>
+- [https://github.com/langchain-ai/langchain](https://github.com/langchain-ai/langchain)<br>
+- [https://github.com/open-webui/open-webui](https://github.com/open-webui/open-webui)<br>
+- [https://github.com/deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)<br>
 

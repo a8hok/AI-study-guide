@@ -125,3 +125,12 @@
 - [https://www.freecodecamp.org/news/build-a-self-healing-ci-cd-pipeline-with-ai/](https://www.freecodecamp.org/news/build-a-self-healing-ci-cd-pipeline-with-ai/)<br>
 - [https://www.freecodecamp.org/news/learn-python-and-build-autonomous-agents/](https://www.freecodecamp.org/news/learn-python-and-build-autonomous-agents/)<br>
 
+## AI Github
+- [https://github.com/openclaw/openclaw](https://github.com/openclaw/openclaw)<br>
+- [https://github.com/n8n-io/n8n](https://github.com/n8n-io/n8n)<br>
+- [https://github.com/ollama/ollama](https://github.com/ollama/ollama)<br>
+- [https://github.com/langflow-ai/langflow](https://github.com/langflow-ai/langflow)<br>
+- [https://github.com/google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)<br>
+- [https://github.com/infiniflow/ragflow](https://github.com/infiniflow/ragflow)<br>
+- [https://github.com/anthropics/claude-code](https://github.com/anthropics/claude-code)<br>
+

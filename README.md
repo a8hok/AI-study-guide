@@ -120,6 +120,7 @@
 
 ## Codex
 - [https://www.youtube.com/watch?v=3TdD8Qv5Tk8](https://www.youtube.com/watch?v=3TdD8Qv5Tk8)<br>
+- [https://www.freecodecamp.org/news/openai-codex-essentials-ai-assisted-agentic-development-course/](https://www.freecodecamp.org/news/openai-codex-essentials-ai-assisted-agentic-development-course/)<br>
 
 ## AI dev-ops
 - [https://www.freecodecamp.org/news/build-a-self-healing-ci-cd-pipeline-with-ai/](https://www.freecodecamp.org/news/build-a-self-healing-ci-cd-pipeline-with-ai/)<br>

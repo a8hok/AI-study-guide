@@ -124,6 +124,9 @@
 - [https://www.freecodecamp.org/news/openai-codex-essentials-ai-assisted-agentic-development-course/](https://www.freecodecamp.org/news/openai-codex-essentials-ai-assisted-agentic-development-course/)<br>
 - [https://www.freecodecamp.org/news/openai-codex-crash-course/](https://www.freecodecamp.org/news/openai-codex-crash-course/)<br>
 
+## AI - Claude
+- [https://www.freecodecamp.org/news/claude-code-for-beginners/](https://www.freecodecamp.org/news/claude-code-for-beginners/)<br>
+
 
 ## AI dev-ops
 - [https://www.freecodecamp.org/news/build-a-self-healing-ci-cd-pipeline-with-ai/](https://www.freecodecamp.org/news/build-a-self-healing-ci-cd-pipeline-with-ai/)<br>

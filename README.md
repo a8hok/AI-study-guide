@@ -123,6 +123,7 @@
 - [https://www.youtube.com/watch?v=3TdD8Qv5Tk8](https://www.youtube.com/watch?v=3TdD8Qv5Tk8)<br>
 - [https://www.freecodecamp.org/news/openai-codex-essentials-ai-assisted-agentic-development-course/](https://www.freecodecamp.org/news/openai-codex-essentials-ai-assisted-agentic-development-course/)<br>
 - [https://www.freecodecamp.org/news/openai-codex-crash-course/](https://www.freecodecamp.org/news/openai-codex-crash-course/)<br>
+- [https://www.freecodecamp.org/news/the-codex-handbook-a-practical-guide-to-openai-s-coding-platform/](https://www.freecodecamp.org/news/the-codex-handbook-a-practical-guide-to-openai-s-coding-platform/)<br>
 
 ## AI - Claude
 - [https://www.freecodecamp.org/news/claude-code-for-beginners/](https://www.freecodecamp.org/news/claude-code-for-beginners/)<br>

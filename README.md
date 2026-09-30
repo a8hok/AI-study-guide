@@ -129,6 +129,9 @@
 ## AI - Claude
 - [https://www.freecodecamp.org/news/claude-code-for-beginners/](https://www.freecodecamp.org/news/claude-code-for-beginners/)<br>
 
+## AI- Gemini
+- [https://www.freecodecamp.org/news/build-an-ai-coding-agent-with-python-and-gemini/](https://www.freecodecamp.org/news/build-an-ai-coding-agent-with-python-and-gemini/)<br>
+
 
 ## AI dev-ops
 - [https://www.freecodecamp.org/news/build-a-self-healing-ci-cd-pipeline-with-ai/](https://www.freecodecamp.org/news/build-a-self-healing-ci-cd-pipeline-with-ai/)<br>

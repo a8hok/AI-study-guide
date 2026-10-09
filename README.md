@@ -153,3 +153,6 @@
 - [https://github.com/open-webui/open-webui](https://github.com/open-webui/open-webui)<br>
 - [https://github.com/deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)<br>
 
+## AI projects
+- [https://www.freecodecamp.org/news/react-project-tutorial-build-an-ai-code-explainer/](https://www.freecodecamp.org/news/react-project-tutorial-build-an-ai-code-explainer/)<br>
+

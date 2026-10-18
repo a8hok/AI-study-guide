@@ -54,6 +54,7 @@
 
 ## GenAI
 - [https://www.freecodecamp.org/news/free-genai-65-hour-bootcamp/](https://www.freecodecamp.org/news/free-genai-65-hour-bootcamp/)<br>
+- [https://www.freecodecamp.org/news/learn-generative-ai-in-23-hours/](https://www.freecodecamp.org/news/learn-generative-ai-in-23-hours/)<br>
 
 ## Prompt Engineering
 - [https://github.com/NirDiamant/Prompt_Engineering?ref=dailydev](https://github.com/NirDiamant/Prompt_Engineering?ref=dailydev)<br>

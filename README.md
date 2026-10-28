@@ -158,3 +158,5 @@
 ## AI projects
 - [https://www.freecodecamp.org/news/react-project-tutorial-build-an-ai-code-explainer/](https://www.freecodecamp.org/news/react-project-tutorial-build-an-ai-code-explainer/)<br>
 
+## AI engineering handbook 
+- [https://www.freecodecamp.org/news/the-ai-engineering-handbook-how-to-start-a-career-and-excel-as-an-ai-engineer/](https://www.freecodecamp.org/news/the-ai-engineering-handbook-how-to-start-a-career-and-excel-as-an-ai-engineer/)<br>

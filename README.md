@@ -113,6 +113,7 @@
 - [https://www.freecodecamp.org/news/learn-mcp-essentials-and-how-to-create-secure-agent-interfaces-with-fastmcp/](https://www.freecodecamp.org/news/learn-mcp-essentials-and-how-to-create-secure-agent-interfaces-with-fastmcp/)<br>
 - [https://www.freecodecamp.org/news/how-to-build-a-market-research-copilot-with-mcp-and-python-handbook/](https://www.freecodecamp.org/news/how-to-build-a-market-research-copilot-with-mcp-and-python-handbook/)<br>
 - [https://www.freecodecamp.org/news/how-to-build-your-own-mcp-server-with-python/](https://www.freecodecamp.org/news/how-to-build-your-own-mcp-server-with-python/)<br>
+- [https://www.freecodecamp.org/news/secure-your-ai-agents-free-model-context-protocol-mcp-security-course?via=dailydev](https://www.freecodecamp.org/news/secure-your-ai-agents-free-model-context-protocol-mcp-security-course?via=dailydev)<br>
 
 ## AI youtube
 - [https://www.youtube.com/watch?v=JzK-QksLYcg](https://www.youtube.com/watch?v=JzK-QksLYcg)<br>
